@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# AWS credentials (never commit these!)
+.env
+*.pem
+*.key
+credentials
+
+# Node (if used)
+node_modules/
